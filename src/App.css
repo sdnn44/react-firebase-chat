@@ -1,0 +1,4 @@
+.app .app_container {
+  display: flex;
+  max-height: 97vh;
+}

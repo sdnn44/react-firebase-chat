@@ -1,0 +1,20 @@
+.message_container {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+
+.message_container img {
+    height: 2rem;
+    border-radius: 45px;
+}
+
+.message_details {
+    padding-left: 1rem;
+}
+
+.message_details h4 span {
+    font-weight: 300;
+    margin-left: 4px;
+    font-size: .9rem;
+}

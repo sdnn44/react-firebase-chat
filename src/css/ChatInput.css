@@ -1,0 +1,27 @@
+.chat_input_container {
+    /* background-color: #36393f; */
+    border-radius: 20px;
+
+}
+
+.chat_input_container form {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.chat_input_container form input {
+    position: fixed;
+    bottom: 1rem;
+    width: 70%;
+    border: 1px solid white;
+    color: white;
+    background-color: #36393f;
+    border-radius: 3px;
+    padding: 1rem;
+    outline: none;
+}
+
+.chat_input_container form button {
+    display: none !important;
+}
